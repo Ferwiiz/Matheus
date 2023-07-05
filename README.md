@@ -1,9 +1,9 @@
 ## Bem-vindo(a) ao perfil do Dev em Dobro 😁
 
  <div>
-   <a href="https://github.com/x-men">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=x-men&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x-men&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/Matheus">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
 <div style="display: inline_block"><br>
@@ -20,7 +20,7 @@
   <a href = "mailto:gemeos@devemdobro.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-souza-397bb0254/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-   ![Snake animation](https://github.com/Ferwiiz/x-men/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/Ferwiiz/Matheus/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 </div>
