@@ -7,7 +7,7 @@
 
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="C#" height="40" width="40" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png">
   <img align="center" alt="SpringBoot" height="40" width="100" src="https://seeklogo.com/images/S/spring-boot-logo-9D6125D4E7-seeklogo.com.png">
 </div>
