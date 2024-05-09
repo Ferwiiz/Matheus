@@ -7,9 +7,9 @@
 
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="C#" height="30" width="40" src="https://www.google.com.br/url?sa=i&url=https%3A%2F%2Fseeklogo.com%2Fvector-logo%2F363285%2Fc-sharp-c&psig=AOvVaw1c8yLJzjFT6Q6bK95YB46E&ust=1715381374137000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLj379HTgYYDFQAAAAAdAAAAABAI">
+  <img align="center" alt="SpringBoot" height="30" width="40" src="https://seeklogo.com/images/S/spring-boot-logo-9D6125D4E7-seeklogo.com.png">
 </div>
  
  <br>
